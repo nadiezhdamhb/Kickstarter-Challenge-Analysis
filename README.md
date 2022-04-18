@@ -4,7 +4,7 @@
 This data analysis focuses on the different campaigns fared in relation to their launch dates and their funding goals. 
 
 ### Purpose
-The purpose of this project is to compare the different outcomes for the Parent Category of “Theater” throughout the year as well as comparing the subcategory of “plays” against the Campaign Goal ranges to find out what makes a successful campaign.## Analysis and Challenges
+The purpose of this project is to compare the different outcomes for the Parent Category of “Theater” throughout the year as well as comparing the subcategory of “plays” against the Campaign Goal ranges to find out what makes a successful campaign.
 
 ### Analysis and Challenges
 The Data was sorted and filtered. The initial data was difficult to work with due to not having the appropriate information for dates. The deadline and launch column were converted to Dates. The Category/Subcategory column was split into two columns to better analyze the data for specific Parent Categories and subcategories.
