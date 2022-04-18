@@ -29,11 +29,11 @@ There were no challenges for the methods used to test the data. However, I had a
 
 ## Results
 1. What are two conclusions you can draw about the Outcomes based on Launch Date?
-2. 
+
 The conclusion for this analysis is that Theater campaigns have a higher rate of success during the summer season than the winter season. 
 
 2. What can you conclude about the Outcomes based on Goals?
-3. 
+
 ‘plays’ under Theater are most successful when the Goal-amount is between $1,000 and $4,999. 
 
 3. What are some limitations of this dataset?
